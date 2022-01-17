@@ -7,7 +7,7 @@ Check out the [demo](https://github.com/asticode/go-astilectron-demo) to see a w
 Run the following command:
 
 ```shell
-go get -u github.com/asticode/go-astilectron-bundler/...
+go get -u github.com/AlienRecall/go-astilectron-bundler/...
 ```
 
 # Build the binary
@@ -15,7 +15,7 @@ go get -u github.com/asticode/go-astilectron-bundler/...
 Run the following command:
 
 ```shell
-go install github.com/asticode/go-astilectron-bundler/astilectron-bundler
+go install github.com/AlienRecall/go-astilectron-bundler/astilectron-bundler
 ```
 
 # Configuration
