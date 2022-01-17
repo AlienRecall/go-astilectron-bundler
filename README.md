@@ -1,4 +1,4 @@
-**FIXED VERSION TO BUNDLE WITH CUSTOM COMPILER**
+# **FIXED VERSION TO BUNDLE WITH CUSTOM COMPILER**
 
 This package provides a way to bundle an [astilectron](https://github.com/asticode/go-astilectron) app using the [bootstrap](https://github.com/asticode/go-astilectron-bootstrap).
 
