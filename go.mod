@@ -1,4 +1,4 @@
-module github.com/asticode/go-astilectron-bundler
+module github.com/AlienRecall/go-astilectron-bundler
 
 go 1.13
 
